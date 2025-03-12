@@ -1,2 +1,2 @@
 # prayas_ecom
-This is ecom end to project
+This is ecom end to end project
